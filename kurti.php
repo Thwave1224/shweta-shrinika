@@ -2006,7 +2006,7 @@
       </a>
       <div class="card-body">
         <p data-sd-event="" class="css-f23be2">
-          Cotton Printed New Womens A-line Straight
+          Cotton Printed New Womens Straight
         </p>
         <div class="css-5bhc30">
           <b><span data-sd-event="" class="css-1kfknpp">₹599</span></b>
